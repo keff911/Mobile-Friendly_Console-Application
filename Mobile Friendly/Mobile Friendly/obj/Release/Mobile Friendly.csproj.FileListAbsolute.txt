@@ -1,0 +1,6 @@
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\bin\Release\Mobile Friendly.exe.config
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\bin\Release\Mobile Friendly.exe
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\bin\Release\Mobile Friendly.pdb
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\obj\Release\Mobile Friendly.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\obj\Release\Mobile Friendly.exe
+C:\Users\Kevin\Source\Repos\Mobile Friendly\Mobile Friendly\obj\Release\Mobile Friendly.pdb
